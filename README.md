@@ -40,8 +40,8 @@ I'm a passionate full-stack developer from **Jamshedpur, India** who loves build
 |--------|-------------|------|
 | [TypingTestGo](https://typingtestgo.com) | Typing speed test platform with leaderboards, multiple modes & articles | HTML, CSS, JS, Firebase |
 | [TinyTV](https://github.com/anisarzoo/tinytv) | IPTV streaming app with channel filtering, favorites & PWA support | JavaScript, PWA |
-| [Vaanee](https://github.com/anisarzoo/Vaanee) | E-commerce web application | HTML, CSS |
-| [ClipSynq](https://github.com/anisarzoo/ClipSynq) | Media clip synchronization tool | JavaScript |
+| [Vaanee](https://github.com/anisarzoo/Vaanee) | A simple web-based voice generation and speech experimentation tool. | HTML, CSS |
+| [ClipSynq](https://github.com/anisarzoo/ClipSynq) | A minimal web-based clipboard and text snippet management tool. | JavaScript |
 | [xplr](https://github.com/anisarzoo/xplr) | Web explorer utility | JavaScript |
 
 ---
