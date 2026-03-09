@@ -16,7 +16,7 @@
 I'm a passionate full-stack developer from **Jamshedpur, India** who loves building real-world web applications from scratch. I focus on clean code, great UX, and shipping products that actually work.
 
 - 🔭 Currently working on **[TypingTestGo](https://typingtestgo.com)** — a feature-rich typing speed test platform
-- 🌱 Building **TinyTV** (IPTV streaming), **Vaanee** (e-commerce), and **ClipSynq** (media tools)
+- 🌱 Building **TinyTV** (IPTV streaming), **Vaanee** (e-commerce), and **ClipSynq** (Clipbboard Manager)
 - 🔐 Passionate about **PWA development**, **real-time apps**, and **Firebase**
 - ⚡ Fun fact: I build apps fast — and test my typing speed while doing it!
 
