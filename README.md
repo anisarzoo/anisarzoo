@@ -24,9 +24,9 @@
 
 I'm a passionate **Full-Stack Developer** based in **Bokaro Steel City, India**. I specialize in architecting high-performance web applications from the ground up, with a deep focus on **Clean Architecture**, **Exceptional UX**, and **Scalable Systems**. My goal is to build products that are not just functional, but delightful to use.
 
-- 🔭 **Currently Building**: [TypingTestGo](https://typingtestgo.com) — a premium typing speed test platform
-- 🔐 **Also Working On**: Cipher — an end-to-end encrypted messaging platform
-- 📺 **Side Project**: TinyTV — IPTV streaming app with PWA support
+- 🔭 **Currently Building**: [TypingTestGo](https://typingtestgo.com/) — a premium typing speed test platform
+- 🔐 **Also Working On**: [Last Escape](https://last-escape.vercel.app/) — a high-stakes tactical extraction maze game
+- 📺 **Side Project**: [TinyTV](https://tinytv.netlify.app/) — IPTV streaming app with PWA support
 - 🌱 **Learning**: Advanced Cloud Infrastructure & Distributed Systems
 - 💬 **Ask me about**: JavaScript, Firebase, PWA, Real-time apps, SEO
 - ⚡ **Fun Fact**: I build apps so fast, I have to test my typing speed while I code!
@@ -56,11 +56,13 @@ I'm a passionate **Full-Stack Developer** based in **Bokaro Steel City, India**.
 
 | Project | Description | Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **[TypingTestGo](https://typingtestgo.com)** | Premium typing speed test platform with leaderboards & multiple modes | JS · Firebase | 🚀 Live |
-| **[TinyTV](https://github.com/anisarzoo/tinytv)** | IPTV streaming app with favorites, channel filters & PWA | JS · PWA | 🌱 Alpha |
-| **[Cipher](https://github.com/anisarzoo)** | End-to-end encrypted messaging platform with multi-device support | JS · Firebase | 🔐 In Dev |
-| **[NewsFlow](https://github.com/anisarzoo/NewsFlow)** | Modern, secure news platform powered by Vite & Firebase | Vite · Firebase | 🛠 In Dev |
-| **[ClipSynq](https://github.com/anisarzoo/ClipSynq)** | Real-time clipboard sync for seamless cross-device productivity | JS · Firebase | 🌱 Beta |
+| **[TypingTestGo](https://typingtestgo.com/)** | Premium typing speed test platform with leaderboards | JS · Firebase | 🚀 Live |
+| **[Dotbox](https://dotbox.vercel.app/)** | Multiplayer Dots and Boxes Classroom edition | JS · WebSockets | 🚀 Live |
+| **[TinyTV](https://tinytv.netlify.app/)** | Watch live TV channels from around the world | JS · PWA | 🌱 Alpha |
+| **[ShareVia](https://sharevia.netlify.app/)** | P2P cross-device file transfer via browser | WebRTC · JS | 🚀 Live |
+| **[Last Escape](https://last-escape.vercel.app/)** | High-stakes tactical extraction maze game | React · Vite | 🚀 Live |
+| **[MP3fy](http://mp3fy.vercel.app/)** | Real-time "Listen Together" music player | JS · Firebase | 🌱 Beta |
+| **[FinCalc Pro](https://calfin.netlify.app/)** | Advanced financial calculator for interest & SIPs | JS · Chart.js | 🚀 Live |
 
 ---
 
