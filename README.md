@@ -1,8 +1,5 @@
 # Hi, I'm Anis 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anisarzoo/anisarzoo/main/banner.png" alt="Anis Banner" />
-</p>
 
 <p align="center">
   <strong>Full-Stack Developer · Project Architect · Speed Coder</strong>
@@ -69,7 +66,7 @@ I'm a passionate **Full-Stack Developer** based in **Bokaro Steel City, India**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anisarzoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anisarzoo&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisarzoo&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
@@ -92,8 +89,8 @@ I'm a passionate **Full-Stack Developer** based in **Bokaro Steel City, India**.
   <a href="https://typingtestgo.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://typingtestgo.com/contact" target="_blank">
-    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:anis.arzoo@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=yahoo&logoColor=white" />
   </a>
 </p>
 
