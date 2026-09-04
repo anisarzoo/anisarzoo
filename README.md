@@ -1,100 +1,100 @@
-# Hi, I'm Anis 👋
+﻿<div align="center">
 
+# Anis Arzoo
+### Full-Stack Software Engineer & Product Architect
 
-<p align="center">
-  <strong>Full-Stack Developer · Project Architect · Speed Coder</strong>
-</p>
+[![TypingTestGo](https://img.shields.io/badge/Live_Product-TypingTestGo-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://typingtestgo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-anisarzoo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anisarzoo)
+[![Email](https://img.shields.io/badge/Email-anis.arzoo8%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anis.arzoo8@gmail.com)
+[![Location](https://img.shields.io/badge/Location-India-10B981?style=flat-square&logo=google-maps&logoColor=white)](#)
 
-<p align="center">
-  <a href="https://github.com/anisarzoo">
-    <img src="https://img.shields.io/github/followers/anisarzoo?label=Follow&style=for-the-badge&color=212121&labelColor=333333" alt="Follow"/>
-  </a>
-  <a href="https://typingtestgo.com">
-    <img src="https://img.shields.io/badge/Main_Project-TypingTestGo-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TypingTestGo"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=anisarzoo&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
-
----
-
-### ⚡ About Me
-
-I'm a passionate **Full-Stack Developer** based in **Bokaro Steel City, India**. I specialize in architecting high-performance web applications from the ground up, with a deep focus on **Clean Architecture**, **Exceptional UX**, and **Scalable Systems**. My goal is to build products that are not just functional, but delightful to use.
-
-- 🔭 **Currently Building**: [TypingTestGo](https://typingtestgo.com/) — a premium typing speed test platform
-- 🔐 **Also Working On**: [Last Escape](https://last-escape.vercel.app/) — a high-stakes tactical extraction maze game
-- 📺 **Side Project**: [TinyTV](https://tinytv.netlify.app/) — IPTV streaming app with PWA support
-- 🌱 **Learning**: Advanced Cloud Infrastructure & Distributed Systems
-- 💬 **Ask me about**: JavaScript, Firebase, PWA, Real-time apps, SEO
-- ⚡ **Fun Fact**: I build apps so fast, I have to test my typing speed while I code!
-
----
-
-### 🛠 Tech Stack
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <em>Engineering high-performance web applications, latency-critical real-time platforms, and scalable client-side systems.</em>
 </p>
 
 ---
 
-### 📦 Featured Projects
+</div>
 
-| Project | Description | Tech | Status |
-| :--- | :--- | :--- | :--- |
-| **[TypingTestGo](https://typingtestgo.com/)** | Premium typing speed test platform with leaderboards | JS · Firebase | 🚀 Live |
-| **[Dotbox](https://dotbox.vercel.app/)** | Multiplayer Dots and Boxes Classroom edition | JS · WebSockets | 🚀 Live |
-| **[TinyTV](https://tinytv.netlify.app/)** | Watch live TV channels from around the world | JS · PWA | 🌱 Alpha |
-| **[ShareVia](https://sharevia.netlify.app/)** | P2P cross-device file transfer via browser | WebRTC · JS | 🚀 Live |
-| **[Last Escape](https://last-escape.vercel.app/)** | High-stakes tactical extraction maze game | React · Vite | 🚀 Live |
-| **[MP3fy](http://mp3fy.vercel.app/)** | Real-time "Listen Together" music player | JS · Firebase | 🌱 Beta |
-| **[FinCalc Pro](https://calfin.netlify.app/)** | Advanced financial calculator for interest & SIPs | JS · Chart.js | 🚀 Live |
+## 📌 Executive Summary
+
+I am a **Full-Stack Software Engineer** focused on building production-grade web applications with a relentless emphasis on **performance, system design, and clean user experience**.
+
+- 🚀 **Founder & Lead Architect** of **[TypingTestGo](https://typingtestgo.com)** — a global typing analytics platform featuring 110+ statically prerendered routes, sub-millisecond input capture, dynamic rank ladders, and real-time anti-cheat validation.
+- ⚡ **Core Strengths**: Latency-critical frontend architecture, real-time WebSocket/WebRTC protocols, event-driven serverless backends, and full-stack performance optimization.
+- 🎯 **Engineering Philosophy**: Fast load times, zero-jank 60fps interactions, semantic markup, and resilient architectures that scale smoothly.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Technical Proficiencies
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=anisarzoo&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anisarzoo&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisarzoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,astro,react,nodejs,firebase,html,css,tailwind,vite,python,git,netlify,vscode&theme=dark" alt="Tech Stack Icons" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anisarzoo&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+<br/><br/>
+
+</div>
+
+| Discipline | Technologies & Tools |
+| :--- | :--- |
+| **Core & Languages** | JavaScript (ES6+), TypeScript, Python, HTML5 Semantic, CSS3 Modern |
+| **Frontend & Frameworks** | Astro, React.js, Vite, Vanilla JS (DOM Performance & State Engines), PWA |
+| **Backend & Cloud** | Node.js, Netlify Serverless Functions, REST APIs, Express |
+| **Databases & Real-Time** | Firebase Realtime Database / Firestore, WebSockets, WebRTC P2P |
+| **Architecture & DevOps** | Git, GitHub, Netlify Edge CDN, SEO & Performance Auditing, Anti-Cheat Verification |
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Flagship & Selected Projects
 
-<p align="center">
-  <a href="https://github.com/anisarzoo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://typingtestgo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:anis.arzoo@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=yahoo&logoColor=white" />
-  </a>
-</p>
+### 🏆 [TypingTestGo](https://typingtestgo.com) — Global Typing Speed & Analytics Platform
+> **Stack:** Astro · Vanilla JavaScript Core · Netlify Serverless · Firebase Realtime DB
+- **110+ statically prerendered routes** with edge CDN caching and sub-second page loads.
+- Sub-millisecond keystroke latency capture with multi-tiered anti-cheat verification.
+- Real-time global percentile rank calculation across 50+ countries, XP progression, and cloud profile sync.
 
-<p align="center">
-  <i>"Code is craft. Build it like art."</i>
-</p>
+### 🌐 [ShareVia](https://sharevia.netlify.app/) — Peer-to-Peer Cross-Device File Transfer
+> **Stack:** WebRTC DataChannels · JavaScript · P2P Networking
+- Serverless peer-to-peer direct file transfers over browser WebRTC.
+- Zero file size caps, end-to-end local network encryption, and instant pairing.
 
+### 🎮 [Dotbox](https://dotbox.vercel.app/) — Real-Time Multiplayer Strategy Engine
+> **Stack:** JavaScript · WebSockets · HTML5 Canvas
+- Real-time networked implementation of the classic Dots & Boxes grid game.
+- Low-latency state synchronization with multiplayer room matchmaking.
+
+### 🗝️ [Last Escape](https://last-escape.vercel.app/) — Tactical Maze Extraction Game
+> **Stack:** React · Vite · Canvas / State Engine
+- Fast-paced tactical extraction labyrinth game with procedural hazard generation and pathfinding mechanics.
+
+---
+
+## 📈 GitHub Engineering Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=anisarzoo&show_icons=true&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=60a5fa&text_color=94a3b8&bg_color=0d1117" alt="Anis's GitHub Stats" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anisarzoo&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" height="165" />
+
+</div>
+
+---
+
+## 📬 Connect & Collaborate
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/TypingTestGo-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://typingtestgo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anisarzoo)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anis.arzoo8@gmail.com)
+
+<br/>
+
+<sub>Crafting high-impact digital experiences with code, discipline, and attention to detail.</sub>
+
+</div>
