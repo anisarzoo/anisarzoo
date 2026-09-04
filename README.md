@@ -5,7 +5,7 @@
 
 [![TypingTestGo](https://img.shields.io/badge/Live_Product-TypingTestGo-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://typingtestgo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anisarzoo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anisarzoo)
-[![Email](https://img.shields.io/badge/Email-anis.arzoo8%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anis.arzoo8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-fyarzoo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fyarzoo@gmail.com)
 [![Location](https://img.shields.io/badge/Location-India-10B981?style=flat-square&logo=google-maps&logoColor=white)](#)
 
 <br/>
@@ -63,14 +63,20 @@ I am a **Full-Stack Software Engineer** focused on building production-grade web
 - Serverless peer-to-peer direct file transfers over browser WebRTC.
 - Zero file size caps, end-to-end local network encryption, and instant pairing.
 
+### 📺 [TinyTV](https://tinytv.netlify.app/) — Lightweight IPTV Streaming Platform
+> **Stack:** JavaScript · PWA · HLS Streaming · Modern CSS
+- Clean, responsive IPTV streaming application with progressive web app (PWA) offline installation.
+- Curated global channel directories with fast media buffering and zero bloat.
+
+### 🎵 [MP3fy](https://mp3fy.vercel.app/) — Real-Time "Listen Together" Social Audio
+> **Stack:** JavaScript · Firebase Realtime DB · Web Audio API
+- Synchronized multi-user music listening experience with low-latency room state syncing.
+- Shared queue management, real-time playback synchronization, and responsive audio UI.
+
 ### 🎮 [Dotbox](https://dotbox.vercel.app/) — Real-Time Multiplayer Strategy Engine
 > **Stack:** JavaScript · WebSockets · HTML5 Canvas
 - Real-time networked implementation of the classic Dots & Boxes grid game.
 - Low-latency state synchronization with multiplayer room matchmaking.
-
-### 🗝️ [Last Escape](https://last-escape.vercel.app/) — Tactical Maze Extraction Game
-> **Stack:** React · Vite · Canvas / State Engine
-- Fast-paced tactical extraction labyrinth game with procedural hazard generation and pathfinding mechanics.
 
 ---
 
@@ -91,7 +97,7 @@ I am a **Full-Stack Software Engineer** focused on building production-grade web
 
 [![Website](https://img.shields.io/badge/TypingTestGo-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://typingtestgo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anisarzoo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anis.arzoo8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fyarzoo@gmail.com)
 
 <br/>
 
